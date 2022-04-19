@@ -1,3 +1,3 @@
-module ln0911
+module github.com/ln0911/go
 
 go 1.18
